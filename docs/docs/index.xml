@@ -1,13 +1,51 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Docs on Template-Hugo</title>
-    <link>https://hello-world-example.github.io/Template-Hugo/docs/</link>
-    <description>Recent content in Docs on Template-Hugo</description>
+    <title>Docs on Spring-Jdbc</title>
+    <link>https://hello-world-example.github.io/Spring-Jdbc/docs/</link>
+    <description>Recent content in Docs on Spring-Jdbc</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://hello-world-example.github.io/Template-Hugo/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hello-world-example.github.io/Spring-Jdbc/docs/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/EnableTransactionManagement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/EnableTransactionManagement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/PlatformTransactionManager/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/PlatformTransactionManager/</guid>
+      <description>PlatformTransactionManager package org.springframework.transaction; /** * This is the central interface in Spring&amp;#39;s transaction infrastructure. * Applications can use this directly, but it is not primarily meant as API: * Typically, applications will work with either TransactionTemplate or * declarative transaction demarcation through AOP. * * &amp;lt;p&amp;gt;For implementors, it is recommended to derive from the provided * {@link org.springframework.transaction.support.AbstractPlatformTransactionManager} * class, which pre-implements the defined propagation behavior and takes care * of transaction synchronization handling.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/todo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/todo/</guid>
+      <description>TODO TransactionAspectSupport.completeTransactionAfterThrowing rollbackFor = Exception.class 提交后抛出 回滚后抛出
+Spring 视图传播机制的实现方式 Spring rollbackFor 的实现方式
+http://www.iteye.com/topic/35907/ https://blog.csdn.net/aya19880214/article/details/50640596 https://blog.csdn.net/seelye/article/details/40144817 https://blog.csdn.net/dapinxiaohuo/article/details/52092447 https://blog.csdn.net/dlgdlg_2008/article/details/73835487</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/usage-mode/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hello-world-example.github.io/Spring-Jdbc/docs/spring-tx/usage-mode/code/</guid>
+      <description>Spring 事务使用 - 编码方式 </description>
+    </item>
     
   </channel>
 </rss>
