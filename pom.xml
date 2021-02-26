@@ -6,7 +6,13 @@
 
     <groupId>Spring-Jdbc</groupId>
     <artifactId>Spring-Jdbc</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>demo-spring-tx</module>
+        <module>demo-spring-jdbc</module>
+        <module>demo-spring-draw</module>
+    </modules>
 
 
     <properties>
@@ -26,11 +32,6 @@
     </properties>
 
     <dependencies>
-        <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-jdbc</artifactId>
-        </dependency>
-
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
